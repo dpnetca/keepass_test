@@ -1,0 +1,5 @@
+.keepass_test
+.venv
+__pycache__
+.vscode/
+secret*
